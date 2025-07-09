@@ -1,6 +1,6 @@
 # 🚀 WidderLabs
 
-![WidderLabs Banner](https://via.placeholder.com/1000x200.png?text=WidderLabs)
+![WidderLabs Banner](https://placehold.co/1000x200?text=WidderLabs)
 
 > **Innovación y pasión por la seguridad**
 
